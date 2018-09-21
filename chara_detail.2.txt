@@ -1,0 +1,7 @@
+花嫁プリシス,シューター,
+<td class="style_td">武器種：アーム</td>
+</tr><tr><td class="style_td">ラッシュコンボ「しあわせ･チャージ」<br class="spacer" />与ダメージ+70%(全体/20秒間)<br class="spacer" />威力：ATKｘ4000%／
+最大ヒット数：9／無属性</td>
+<td class="style_td" rowspan="2">LV：70<br class="spacer" />HP：14070<br class="spacer" />ATK：2468<br class="spacer" />INT：1537<br class="spacer" />DEF：1773<br class="spacer" />HIT：1253<br class="spacer" />GRD：938<br class="spacer" />限界突破：10段階まで</td>
+</tr><tr><td class="style_td" colspan="2">タレント①｢花の妖精｣<br class="spacer" />クリティカル発生率+15%クリティカルダメージ+15%(全体)<br class="spacer" />チャージアサルトによる被クリティカル発生効果を無効化(自分)<br class="spacer" /><br class="spacer" />タレント②｢ばっちりおめかし｣<br class="spacer" />100150ヒット到達ごとにクリ率とクリダメ+30%45%(全体)<br class="spacer" /><br class="spacer" />タレント③｢笑顔の作り手｣<br class="spacer" />ヒットカウンター+2秒移動速度+30%(全体)<br class="spacer" />攻撃中に怯まない被ダメージ-30%(自分)<br class="spacer" /><br class="spacer" />タレント④｢輝くガーベラ｣<br class="spacer" />50ヒット以上の時に消費AP-20%<br class="spacer" />100ヒット以上の時に消費AP-40%ATK+20%</td>
+</tr></tbody></table></div>
